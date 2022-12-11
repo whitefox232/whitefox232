@@ -8,8 +8,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitefox232&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whitefox232&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img align="center" alt="python" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"                                                                                         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img align="center" alt="HTML" height="30" width="40" />
+<img align="center" alt="C" height="30" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img align="center" alt="C" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img align="center" alt="CSS" height="30" width="40">
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img align="center" alt="HTML" height="30" width="40">                                 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align="center" alt="JavaScript" height="30" width="40"> 
 ##
 
 <div> 
