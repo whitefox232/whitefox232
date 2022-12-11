@@ -1,14 +1,15 @@
 ### Hi, I'm whitefox232!
 
-- 🔭 I’m currently studying my first semester as a Software Engineer
-- 🌱 I’m currently learning Python, C, RStudio, JavaScript, CSS and HTML
+- 🔭 I’m currently studying my third semester as a Software Engineer
+- 🌱 I’m currently learning C, HTML, CSS, JavaScript
 - 📫 How to reach me: vitordfurlan@gmail.com
 - 😄 Pronouns: He/Him
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitefox232&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whitefox232&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img align="center" alt="RStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" /> <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img align="center" alt="python" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"                                                                                         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img align="center" alt="HTML" height="30" width="40" />
 ##
 
 <div> 
